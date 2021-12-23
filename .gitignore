@@ -1,3 +1,6 @@
 freshshop/
 node_modules/
 .DS_Store
+.env
+
+src/ui/assets/img/images/
